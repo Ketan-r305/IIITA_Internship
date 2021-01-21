@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.BinaryClassificationEvaluator","timestamp":1610198276401,"sparkVersion":"3.0.1","uid":"BinaryClassificationEvaluator_ead2a3f74315","paramMap":{"labelCol":"Class","rawPredictionCol":"pred_dtc"},"defaultParamMap":{"labelCol":"label","rawPredictionCol":"rawPrediction","metricName":"areaUnderROC","numBins":1000}}
